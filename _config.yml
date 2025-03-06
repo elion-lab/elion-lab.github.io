@@ -1,0 +1,5 @@
+exclude:
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
